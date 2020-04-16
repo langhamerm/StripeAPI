@@ -40,3 +40,14 @@ npm install
 npm start
 
 ```
+**3. Test the Integration**
+
+There are several test cards you can use in test mode to make sure this integration is ready. Use them with any CVC, postal code, and future expiration date.
+
+TEST CARD NUMBERS:
+
+4242424242424242
+
+4000002500003155
+
+4000000000009995
